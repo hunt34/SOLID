@@ -1,3 +1,7 @@
+// open for extension closed for modification
+
+
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
